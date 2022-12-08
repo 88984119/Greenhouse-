@@ -8,3 +8,8 @@ The prediction models are used to predict that the environment is in threat or i
 By evaluating the accuracy of all models, the Hybrid model gives the best and highest accuracy to get a result.
 The threat level of environment will be predicted by using Hybrid algorithm.
 From the analysis of the project educates the humans about risk level of greenhousegases emission.
+
+Language : Python 
+Platform : Jupyter Notebook 5.7.8 or higher
+Software Tool : OpenCV python
+Packages : NumPy,pandas, Matplotlib, Seaborn, scikit-learn
